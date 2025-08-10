@@ -1,0 +1,30 @@
+.box{
+    border: 2px solid black;
+    width: 400px;
+}
+.number{
+    width: 300px;
+}
+.Password{
+    width: 300px;
+}
+.date{
+    width: 300px;
+}
+.join{
+    width: 120px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+.Home{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 3px;
+    color: black;
+}
+.Home:hover{
+    background-color: black;
+    color: white;
+}
