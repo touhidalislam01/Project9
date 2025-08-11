@@ -1,7 +1,19 @@
+.body{
+    /* background-color: #bc9d9d; */
+}
 .box{
     border: 2px solid black;
+    border-radius: 15px;
     width: 400px;
+    background-color: #bc9d9d;
 }
+h1{
+    color: white;
+}
+.child{
+    color: white;
+}
+
 .number{
     width: 300px;
 }
